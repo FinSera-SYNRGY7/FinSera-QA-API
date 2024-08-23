@@ -1,0 +1,27 @@
+{
+	"id": "001e9c62-f5e8-4542-a8b8-57abf2305c7e",
+	"name": "Test Case",
+	"values": [
+		{
+			"key": "BASE_URL",
+			"value": "https://finsera-api.site",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "USER_TOKEN",
+			"value": "",
+			"type": "secret",
+			"enabled": true
+		},
+		{
+			"key": "USER_REFRESH_TOKEN",
+			"value": "",
+			"type": "secret",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2024-08-23T06:37:22.133Z",
+	"_postman_exported_using": "Postman/11.8.1"
+}
